@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\webberita\\app"
+		},
+		{
+			"path": "..\\..\\..\\webberita\\bootstrap"
+		},
+		{
+			"path": "..\\..\\..\\webberita\\config"
+		},
+		{
+			"path": "..\\..\\..\\webberita\\database"
+		},
+		{
+			"path": "..\\..\\..\\webberita\\public"
+		},
+		{
+			"path": "..\\..\\..\\webberita\\resources"
+		},
+		{
+			"path": "..\\..\\..\\webberita\\routes"
+		},
+		{
+			"path": "..\\..\\..\\webberita\\storage"
+		},
+		{
+			"path": "..\\..\\..\\webberita\\tests"
+		},
+		{
+			"path": "..\\..\\..\\webberita\\vendor"
+		}
+	]
+}
