@@ -1,3 +1,5 @@
+<hr>
+<!-- Footer-->
 <footer class="border-top">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
@@ -34,9 +36,10 @@
             </div>
         </footer>
         <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="{!! asset('assets/vendor/jquery/jquery.min.js') !!}"></script>
+        <script src="{!! asset('assets/vendor/bootstrap/js/bootstrap.bundle .min.js') !!}"></script>
+        <script src="{!! asset('assets/vendor/js/clean-blog.min.js') !!}"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
     </body>
 </html>
- 
